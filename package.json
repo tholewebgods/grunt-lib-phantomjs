@@ -1,23 +1,20 @@
 {
   "name": "grunt-lib-phantomjs",
-  "description": "Grunt and PhantomJS, sitting in a tree.",
+  "description": "Grunt and PhantomJS, sitting in a tree. Forked from the official v0.5.0, modified to depend another phantomjs.",
   "version": "0.5.0",
-  "homepage": "http://github.com/gruntjs/grunt-lib-phantomjs",
+  "homepage": "https://github.com/tholewebgods/grunt-lib-phantomjs",
   "author": {
-    "name": "Grunt Team",
+    "name": "Grunt Team; Strato Frontend Development",
     "url": "http://gruntjs.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-lib-phantomjs.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gruntjs/grunt-lib-phantomjs/issues"
+    "url": "https://github.com/tholewebgods/grunt-lib-phantomjs"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/gruntjs/grunt-lib-phantomjs/blob/master/LICENSE-MIT"
+      "url": "https://github.com/tholewebgods/grunt-lib-phantomjs/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
