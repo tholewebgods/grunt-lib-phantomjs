@@ -1,12 +1,13 @@
 {
   "name": "grunt-lib-phantomjs",
-  "description": "Grunt and PhantomJS, sitting in a tree",
+  "description": "Grunt and PhantomJS, sitting in a tree. Forked from the comming v0.7.2, modified to make the phantomjs binary configurable via environment variable.",
   "version": "0.7.1",
+  "homepage": "https://github.com/tholewebgods/grunt-lib-phantomjs",
   "author": {
-    "name": "Grunt Team",
+    "name": "Grunt Team; Strato Frontend Development",
     "url": "http://gruntjs.com/"
   },
-  "repository": "gruntjs/grunt-lib-phantomjs",
+  "repository": "https://github.com/tholewebgods/grunt-lib-phantomjs",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
