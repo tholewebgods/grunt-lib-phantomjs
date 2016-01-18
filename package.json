@@ -1,5 +1,5 @@
 {
-  "name": "grunt-lib-phantomjs",
+  "name": "rzg-grunt-lib-phantomjs",
   "description": "Grunt and PhantomJS, sitting in a tree. Forked from the official v0.5.0, modified to depend another phantomjs.",
   "version": "0.5.0",
   "homepage": "https://github.com/tholewebgods/grunt-lib-phantomjs",
