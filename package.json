@@ -18,7 +18,8 @@
   "dependencies": {
     "eventemitter2": "^0.4.9",
     "semver": "^4.3.0",
-    "temporary": "^0.0.8"
+    "temporary": "^0.0.8",
+    "which": "^1.0.9"
   },
   "devDependencies": {
     "difflet": "^0.2.3",
